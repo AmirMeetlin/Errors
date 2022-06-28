@@ -2,3 +2,13 @@
 Ошибка получения файла (I/O)
 Connection timed out (Connection timed out)
 Server returned HTTP response code: 500 for URL:
+Server returned HTTP response code: 504 for URL:
+java.io.FileNotFoundException
+unsuccessfulAuthentication:
+Failed to send json: POST
+Connection refused (Connection refused)
+Unexpected error occurred in scheduled task.
+Произошла ошибка при очистке временных zip-файлов
+AbstractDocumentService.fetchDocument(id: undefined, type: PROTOCOL-ISOGD-DOCUMENT) => ru.reinform.cdp.exception.RINotFoundException: document not found
+Broken pipe
+java.lang.NullPointerException
