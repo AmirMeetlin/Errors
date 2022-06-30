@@ -12,3 +12,4 @@ Unexpected error occurred in scheduled task.
 AbstractDocumentService.fetchDocument(id: undefined, type: PROTOCOL-ISOGD-DOCUMENT) => ru.reinform.cdp.exception.RINotFoundException: document not found
 Broken pipe
 java.lang.NullPointerException
+Ошибка при загрузке бинарного файла из МГСН с id:
